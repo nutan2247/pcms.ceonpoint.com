@@ -1,0 +1,16 @@
+.header img {
+    width: 300px;
+}   
+.header {
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+}
+.table thead th {
+    border-bottom: none;
+}
+.table th, .table td {
+    border-top: none;
+}
+.invoice-content {
+    border-bottom: 1px solid #ddd;
+}
